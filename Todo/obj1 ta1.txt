@@ -1,0 +1,2 @@
+Réaliser une liste des coordonées des stagiaires
+Tache : créer un fichier a son nom

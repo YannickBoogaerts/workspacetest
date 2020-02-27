@@ -1,1 +1,2 @@
 fichier de consignes
+modification du setings du repository
